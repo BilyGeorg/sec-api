@@ -1,1 +1,1 @@
-{"query": {"query_string": {"query": "filedAt:2020-06-01 TO 2020-06-24 AND formType:\"D\" NOT formType:\"10*\" "}}, "from": "98", "size": "100", "sort": [{"filedAt": {"order": "desc"}}]}
+{"query": {"query_string": {"query": "filedAt:2020-06-01 TO 2020-06-24 AND formType:\"D\" NOT formType:\"10*\" "}}, "from": "0", "size": "100", "sort": [{"filedAt": {"order": "desc"}}]}
