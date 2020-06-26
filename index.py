@@ -54,7 +54,7 @@ def indexSEC(in_filename,out_filename):
   
   df.reset_index(drop=True,inplace=True)
   
-  df.drop_duplicates(subset=['cik'], inplcae=True)
+  df.drop_duplicates(subset=['cik'], inplace=True)
   
   # output file
   
